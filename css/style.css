@@ -1,0 +1,11 @@
+h1{
+	border: 1px solid black;
+	padding: 20px;
+	background-color: pink;
+}
+.tab{
+	background-color: blue;
+	border-radius: 15px;
+	height: 90px;
+	margin: 15px auto;
+}
